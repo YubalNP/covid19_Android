@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E00B0E</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="satu">#3F51B5</color>
+    <color name="dua">#D81B1B</color>
+    <color name="tiga">#20B628</color>
+
+</resources>
